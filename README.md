@@ -2,7 +2,7 @@
 
 ## Authors
 
-- [Abdelhamid TEbbal](https://github.com/hamidred)
+- [Abdelhamid Tebbal](https://github.com/hamidred)
 
 ## Overview
 
